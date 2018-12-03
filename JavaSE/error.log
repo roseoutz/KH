@@ -1,0 +1,5 @@
+java.lang.ArithmeticException: / by zero
+	at Oct10.add.ExceptionEx13.main(ExceptionEx13.java:20)
+Exception Message : / by zero
+java.lang.ArithmeticException: / by zero
+	at Oct10.add.ExceptionEx14.main(ExceptionEx14.java:21)
