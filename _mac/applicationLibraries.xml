@@ -10,6 +10,7 @@
         <root url="jar://$USER_HOME$/Desktop/j/lib/log4j.jar!/" />
         <root url="jar://$USER_HOME$/Desktop/j/lib/commons-io.jar!/" />
         <root url="jar://$USER_HOME$/Desktop/j/lib/struts2-core.jar!/" />
+        <root url="jar://$USER_HOME$/Desktop/Java/Sample/Struts2/WebContent/WEB-INF/lib/struts2-core-2.0.8.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
