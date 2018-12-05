@@ -2,16 +2,7 @@
   <component name="libraryTable">
     <library name="Struts 2-2.5.14.1" type="struts2">
       <properties version="2.5.14.1" />
-      <CLASSES>
-        <root url="jar://$USER_HOME$/Desktop/j/lib/commons-fileupload.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/j/lib/freemarker.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/j/lib/ognl.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/j/lib/commons-lang.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/j/lib/log4j.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/j/lib/commons-io.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/j/lib/struts2-core.jar!/" />
-        <root url="jar://$USER_HOME$/Desktop/Java/Sample/Struts2/WebContent/WEB-INF/lib/struts2-core-2.0.8.jar!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
