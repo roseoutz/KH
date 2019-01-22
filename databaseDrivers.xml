@@ -51,6 +51,7 @@
       <option name="auto-commit" value="false" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
+      <vm-options>-Duser.language=ko -Duser.country=KR</vm-options>
       <code-style-scheme-name>Default</code-style-scheme-name>
     </driver>
     <driver id="postgresql">
